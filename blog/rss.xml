@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Remedy Blog</title>
+        <link>https://iansannar.github.io/blog</link>
+        <description>Remedy Blog</description>
+        <lastBuildDate>Thu, 18 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Website]]></title>
+            <link>https://iansannar.github.io/blog/initial-blog-post</link>
+            <guid>initial-blog-post</guid>
+            <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Initially, Gitbook seemed like a good solution for easy editing and hosting of these rules, but over the course of 2020 they steadily moved previously free features to their paid-only service. I've been wanting to switch to a new solution for awhile, so when Gitbook changed their CDN and messed up all the DNS configurations for all of my Gitbook sites, it was just the excuse I needed to make the change. Either I let the rules be offline for a week while I try to figure out DNS settings, or I let the rules be offline for a week while I move to a new platform that pull features right out from under me every few months.]]></description>
+        </item>
+    </channel>
+</rss>
