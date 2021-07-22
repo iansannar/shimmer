@@ -1,0 +1,27 @@
+{
+  "unversionedId": "characters/origin",
+  "id": "characters/origin",
+  "isDocsHomePage": false,
+  "title": "Origin",
+  "description": "Each character has an origin, which describes their background knowledge and experience prior to adventuring. Origins provide a variety of proficiencies as well as expertise.",
+  "source": "@site/docs/characters/origin.md",
+  "sourceDirName": "characters",
+  "slug": "/characters/origin",
+  "permalink": "/characters/origin",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/origin.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "origin",
+    "title": "Origin",
+    "sidebar_label": "Origin"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Heritage",
+    "permalink": "/characters/heritage"
+  },
+  "next": {
+    "title": "Class",
+    "permalink": "/characters/class"
+  }
+}

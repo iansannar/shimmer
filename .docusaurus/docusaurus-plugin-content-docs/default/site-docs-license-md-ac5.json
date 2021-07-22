@@ -1,0 +1,23 @@
+{
+  "unversionedId": "license",
+  "id": "license",
+  "isDocsHomePage": false,
+  "title": "License",
+  "description": "Attribution-ShareAlike 4.0 International",
+  "source": "@site/docs/license.md",
+  "sourceDirName": ".",
+  "slug": "/license",
+  "permalink": "/license",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/license.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "license",
+    "title": "License",
+    "sidebar_label": "License"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/contributing"
+  }
+}

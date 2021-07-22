@@ -1,0 +1,27 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Storytelling",
+  "source": "@site/docs/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/introduction",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/introduction.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Home",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Success & Failure",
+    "permalink": "/rules/success-and-failure"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "content/abilities",
+  "id": "content/abilities",
+  "isDocsHomePage": false,
+  "title": "Gambits & Spells",
+  "description": "Gambits",
+  "source": "@site/docs/content/abilities.md",
+  "sourceDirName": "content",
+  "slug": "/content/abilities",
+  "permalink": "/content/abilities",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/abilities.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "abilities",
+    "title": "Gambits & Spells",
+    "sidebar_label": "Gambits & Spells"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Talents",
+    "permalink": "/content/talents"
+  },
+  "next": {
+    "title": "Tricks & Weapons",
+    "permalink": "/content/tricks-and-weapons"
+  }
+}

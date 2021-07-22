@@ -1,0 +1,27 @@
+{
+  "unversionedId": "content/sundries",
+  "id": "content/sundries",
+  "isDocsHomePage": false,
+  "title": "Sundries",
+  "description": "Rarity",
+  "source": "@site/docs/content/sundries.md",
+  "sourceDirName": "content",
+  "slug": "/content/sundries",
+  "permalink": "/content/sundries",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/sundries.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "sundries",
+    "title": "Sundries",
+    "sidebar_label": "Sundries"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Armor & Shields",
+    "permalink": "/content/armor-and-shields"
+  },
+  "next": {
+    "title": "Conditions",
+    "permalink": "/reference/conditions"
+  }
+}

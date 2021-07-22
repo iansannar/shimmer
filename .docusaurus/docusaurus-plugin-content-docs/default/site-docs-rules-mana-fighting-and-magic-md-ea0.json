@@ -1,0 +1,27 @@
+{
+  "unversionedId": "rules/mana-fighting-and-magic",
+  "id": "rules/mana-fighting-and-magic",
+  "isDocsHomePage": false,
+  "title": "Mana, Fighting, & Magic",
+  "description": "Mana, Fighting, & Magic",
+  "source": "@site/docs/rules/mana-fighting-and-magic.md",
+  "sourceDirName": "rules",
+  "slug": "/rules/mana-fighting-and-magic",
+  "permalink": "/rules/mana-fighting-and-magic",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/rules/mana-fighting-and-magic.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "mana-fighting-and-magic",
+    "title": "Mana, Fighting, & Magic",
+    "sidebar_label": "Mana, Fighting, & Magic"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Playing the Game",
+    "permalink": "/rules/playing-the-game"
+  },
+  "next": {
+    "title": "Creating a Character",
+    "permalink": "/characters/creating-a-character"
+  }
+}

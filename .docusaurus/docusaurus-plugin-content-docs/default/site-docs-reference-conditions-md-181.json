@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/conditions",
+  "id": "reference/conditions",
+  "isDocsHomePage": false,
+  "title": "Conditions",
+  "description": "A condition lasts either until it is removed, or for a duration specified by the effect that imposed the condition. Conditions may specify their own rules on how they can be removed.",
+  "source": "@site/docs/reference/conditions.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/conditions",
+  "permalink": "/reference/conditions",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/reference/conditions.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "conditions",
+    "title": "Conditions",
+    "sidebar_label": "Conditions"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Sundries",
+    "permalink": "/content/sundries"
+  },
+  "next": {
+    "title": "Senses",
+    "permalink": "/reference/senses"
+  }
+}

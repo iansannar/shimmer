@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "home",
+          "docs": [
+            {
+              "id": "characters/class",
+              "path": "/characters/class",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "characters/creating-a-character",
+              "path": "/characters/creating-a-character",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "characters/heritage",
+              "path": "/characters/heritage",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "characters/origin",
+              "path": "/characters/origin",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/abilities",
+              "path": "/content/abilities",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/armor-and-shields",
+              "path": "/content/armor-and-shields",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/perks",
+              "path": "/content/perks",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/sundries",
+              "path": "/content/sundries",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/talents",
+              "path": "/content/talents",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "content/tricks-and-weapons",
+              "path": "/content/tricks-and-weapons",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "contributing",
+              "path": "/contributing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "home",
+              "path": "/",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "introduction",
+              "path": "/introduction",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "license",
+              "path": "/license",
+              "sidebar": "docs"
+            },
+            {
+              "id": "reference/conditions",
+              "path": "/reference/conditions",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "reference/senses",
+              "path": "/reference/senses",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "rules/ability-scores-and-skills",
+              "path": "/rules/ability-scores-and-skills",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "rules/mana-fighting-and-magic",
+              "path": "/rules/mana-fighting-and-magic",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "rules/playing-the-game",
+              "path": "/rules/playing-the-game",
+              "sidebar": "rulebook"
+            },
+            {
+              "id": "rules/success-and-failure",
+              "path": "/rules/success-and-failure",
+              "sidebar": "rulebook"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

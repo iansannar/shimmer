@@ -1,0 +1,702 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "versionEditUrl": "https://github.com/iansannar/remedy/edit/main/docs",
+          "versionEditUrlLocalized": "https://github.com/iansannar/remedy/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Ian\\Documents\\repos\\remedy\\sidebars.js",
+          "contentPath": "C:\\Users\\Ian\\Documents\\repos\\remedy\\docs",
+          "contentPathLocalized": "C:\\Users\\Ian\\Documents\\repos\\remedy\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "home",
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "contributing"
+              },
+              {
+                "type": "doc",
+                "id": "license"
+              }
+            ],
+            "rulebook": [
+              {
+                "type": "doc",
+                "id": "home"
+              },
+              {
+                "type": "doc",
+                "id": "introduction"
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Game Rules",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "rules/success-and-failure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "rules/ability-scores-and-skills"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "rules/playing-the-game"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "rules/mana-fighting-and-magic"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Characters",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "characters/creating-a-character"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "characters/heritage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "characters/origin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "characters/class"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Knowledge & Treasure",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "content/perks"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "content/talents"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "content/abilities"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "content/tricks-and-weapons"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "content/armor-and-shields"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "content/sundries"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Reference",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "reference/conditions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "reference/senses"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/characters/class": "rulebook",
+            "/characters/creating-a-character": "rulebook",
+            "/characters/heritage": "rulebook",
+            "/characters/origin": "rulebook",
+            "/content/abilities": "rulebook",
+            "/content/armor-and-shields": "rulebook",
+            "/content/perks": "rulebook",
+            "/content/sundries": "rulebook",
+            "/content/talents": "rulebook",
+            "/content/tricks-and-weapons": "rulebook",
+            "/contributing": "docs",
+            "/": "rulebook",
+            "/introduction": "rulebook",
+            "/license": "docs",
+            "/reference/conditions": "rulebook",
+            "/reference/senses": "rulebook",
+            "/rules/ability-scores-and-skills": "rulebook",
+            "/rules/mana-fighting-and-magic": "rulebook",
+            "/rules/playing-the-game": "rulebook",
+            "/rules/success-and-failure": "rulebook"
+          },
+          "docs": [
+            {
+              "unversionedId": "characters/class",
+              "id": "characters/class",
+              "isDocsHomePage": false,
+              "title": "Class",
+              "description": "",
+              "source": "@site/docs/characters/class.md",
+              "sourceDirName": "characters",
+              "slug": "/characters/class",
+              "permalink": "/characters/class",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/class.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "class",
+                "title": "Class",
+                "sidebar_label": "Class"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Origin",
+                "permalink": "/characters/origin"
+              },
+              "next": {
+                "title": "Perks",
+                "permalink": "/content/perks"
+              }
+            },
+            {
+              "unversionedId": "characters/creating-a-character",
+              "id": "characters/creating-a-character",
+              "isDocsHomePage": false,
+              "title": "Creating a Character",
+              "description": "Assign Ability Scores",
+              "source": "@site/docs/characters/creating-a-character.md",
+              "sourceDirName": "characters",
+              "slug": "/characters/creating-a-character",
+              "permalink": "/characters/creating-a-character",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/creating-a-character.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "creating-a-character",
+                "title": "Creating a Character",
+                "sidebar_label": "Creating a Character"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Mana, Fighting, & Magic",
+                "permalink": "/rules/mana-fighting-and-magic"
+              },
+              "next": {
+                "title": "Heritage",
+                "permalink": "/characters/heritage"
+              }
+            },
+            {
+              "unversionedId": "characters/heritage",
+              "id": "characters/heritage",
+              "isDocsHomePage": false,
+              "title": "Heritage",
+              "description": "Senses",
+              "source": "@site/docs/characters/heritage.md",
+              "sourceDirName": "characters",
+              "slug": "/characters/heritage",
+              "permalink": "/characters/heritage",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/heritage.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "heritage",
+                "title": "Heritage",
+                "sidebar_label": "Heritage"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Creating a Character",
+                "permalink": "/characters/creating-a-character"
+              },
+              "next": {
+                "title": "Origin",
+                "permalink": "/characters/origin"
+              }
+            },
+            {
+              "unversionedId": "characters/origin",
+              "id": "characters/origin",
+              "isDocsHomePage": false,
+              "title": "Origin",
+              "description": "Each character has an origin, which describes their background knowledge and experience prior to adventuring. Origins provide a variety of proficiencies as well as expertise.",
+              "source": "@site/docs/characters/origin.md",
+              "sourceDirName": "characters",
+              "slug": "/characters/origin",
+              "permalink": "/characters/origin",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/origin.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "origin",
+                "title": "Origin",
+                "sidebar_label": "Origin"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Heritage",
+                "permalink": "/characters/heritage"
+              },
+              "next": {
+                "title": "Class",
+                "permalink": "/characters/class"
+              }
+            },
+            {
+              "unversionedId": "content/abilities",
+              "id": "content/abilities",
+              "isDocsHomePage": false,
+              "title": "Gambits & Spells",
+              "description": "Gambits",
+              "source": "@site/docs/content/abilities.md",
+              "sourceDirName": "content",
+              "slug": "/content/abilities",
+              "permalink": "/content/abilities",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/abilities.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "abilities",
+                "title": "Gambits & Spells",
+                "sidebar_label": "Gambits & Spells"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Talents",
+                "permalink": "/content/talents"
+              },
+              "next": {
+                "title": "Tricks & Weapons",
+                "permalink": "/content/tricks-and-weapons"
+              }
+            },
+            {
+              "unversionedId": "content/armor-and-shields",
+              "id": "content/armor-and-shields",
+              "isDocsHomePage": false,
+              "title": "Armor & Shields",
+              "description": "Armor",
+              "source": "@site/docs/content/armor-and-shields.md",
+              "sourceDirName": "content",
+              "slug": "/content/armor-and-shields",
+              "permalink": "/content/armor-and-shields",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/armor-and-shields.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "armor-and-shields",
+                "title": "Armor & Shields",
+                "sidebar_label": "Armor & Shields"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Tricks & Weapons",
+                "permalink": "/content/tricks-and-weapons"
+              },
+              "next": {
+                "title": "Sundries",
+                "permalink": "/content/sundries"
+              }
+            },
+            {
+              "unversionedId": "content/perks",
+              "id": "content/perks",
+              "isDocsHomePage": false,
+              "title": "Perks",
+              "description": "Ability Score Improvement",
+              "source": "@site/docs/content/perks.md",
+              "sourceDirName": "content",
+              "slug": "/content/perks",
+              "permalink": "/content/perks",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/perks.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "perks",
+                "title": "Perks",
+                "sidebar_label": "Perks"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Class",
+                "permalink": "/characters/class"
+              },
+              "next": {
+                "title": "Talents",
+                "permalink": "/content/talents"
+              }
+            },
+            {
+              "unversionedId": "content/sundries",
+              "id": "content/sundries",
+              "isDocsHomePage": false,
+              "title": "Sundries",
+              "description": "Rarity",
+              "source": "@site/docs/content/sundries.md",
+              "sourceDirName": "content",
+              "slug": "/content/sundries",
+              "permalink": "/content/sundries",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/sundries.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "sundries",
+                "title": "Sundries",
+                "sidebar_label": "Sundries"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Armor & Shields",
+                "permalink": "/content/armor-and-shields"
+              },
+              "next": {
+                "title": "Conditions",
+                "permalink": "/reference/conditions"
+              }
+            },
+            {
+              "unversionedId": "content/talents",
+              "id": "content/talents",
+              "isDocsHomePage": false,
+              "title": "Fighting & Magical Talents",
+              "description": "Fighting Talents",
+              "source": "@site/docs/content/talents.md",
+              "sourceDirName": "content",
+              "slug": "/content/talents",
+              "permalink": "/content/talents",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/talents.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "talents",
+                "title": "Fighting & Magical Talents",
+                "sidebar_label": "Talents"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Perks",
+                "permalink": "/content/perks"
+              },
+              "next": {
+                "title": "Gambits & Spells",
+                "permalink": "/content/abilities"
+              }
+            },
+            {
+              "unversionedId": "content/tricks-and-weapons",
+              "id": "content/tricks-and-weapons",
+              "isDocsHomePage": false,
+              "title": "Tricks & Weapons",
+              "description": "Tricks",
+              "source": "@site/docs/content/tricks-and-weapons.md",
+              "sourceDirName": "content",
+              "slug": "/content/tricks-and-weapons",
+              "permalink": "/content/tricks-and-weapons",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/tricks-and-weapons.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "tricks-and-weapons",
+                "title": "Tricks & Weapons",
+                "sidebar_label": "Tricks & Weapons"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Gambits & Spells",
+                "permalink": "/content/abilities"
+              },
+              "next": {
+                "title": "Armor & Shields",
+                "permalink": "/content/armor-and-shields"
+              }
+            },
+            {
+              "unversionedId": "contributing",
+              "id": "contributing",
+              "isDocsHomePage": false,
+              "title": "Contributing",
+              "description": "Style Guidelines",
+              "source": "@site/docs/contributing.md",
+              "sourceDirName": ".",
+              "slug": "/contributing",
+              "permalink": "/contributing",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/contributing.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "contributing",
+                "title": "Contributing",
+                "sidebar_label": "Contributing"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "License",
+                "permalink": "/license"
+              }
+            },
+            {
+              "unversionedId": "home",
+              "id": "home",
+              "isDocsHomePage": false,
+              "title": "Home",
+              "description": "Website GitHub package.json version Last commit on Github",
+              "source": "@site/docs/home.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/home.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "home",
+                "title": "Home",
+                "sidebar_label": "Home",
+                "slug": "/"
+              },
+              "sidebar": "rulebook",
+              "next": {
+                "title": "Introduction",
+                "permalink": "/introduction"
+              }
+            },
+            {
+              "unversionedId": "introduction",
+              "id": "introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Storytelling",
+              "source": "@site/docs/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/introduction",
+              "permalink": "/introduction",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/introduction.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Home",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Success & Failure",
+                "permalink": "/rules/success-and-failure"
+              }
+            },
+            {
+              "unversionedId": "license",
+              "id": "license",
+              "isDocsHomePage": false,
+              "title": "License",
+              "description": "Attribution-ShareAlike 4.0 International",
+              "source": "@site/docs/license.md",
+              "sourceDirName": ".",
+              "slug": "/license",
+              "permalink": "/license",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/license.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "license",
+                "title": "License",
+                "sidebar_label": "License"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Contributing",
+                "permalink": "/contributing"
+              }
+            },
+            {
+              "unversionedId": "reference/conditions",
+              "id": "reference/conditions",
+              "isDocsHomePage": false,
+              "title": "Conditions",
+              "description": "A condition lasts either until it is removed, or for a duration specified by the effect that imposed the condition. Conditions may specify their own rules on how they can be removed.",
+              "source": "@site/docs/reference/conditions.md",
+              "sourceDirName": "reference",
+              "slug": "/reference/conditions",
+              "permalink": "/reference/conditions",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/reference/conditions.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "conditions",
+                "title": "Conditions",
+                "sidebar_label": "Conditions"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Sundries",
+                "permalink": "/content/sundries"
+              },
+              "next": {
+                "title": "Senses",
+                "permalink": "/reference/senses"
+              }
+            },
+            {
+              "unversionedId": "reference/senses",
+              "id": "reference/senses",
+              "isDocsHomePage": false,
+              "title": "Senses",
+              "description": "Senses may specify a range in parentheses after the sense type. Past this range, a sense does not work at all \\(or not well enough to matter\\). It is possible to have multiple senses, though this is rare.",
+              "source": "@site/docs/reference/senses.md",
+              "sourceDirName": "reference",
+              "slug": "/reference/senses",
+              "permalink": "/reference/senses",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/reference/senses.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "senses",
+                "title": "Senses",
+                "sidebar_label": "Senses"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Conditions",
+                "permalink": "/reference/conditions"
+              }
+            },
+            {
+              "unversionedId": "rules/ability-scores-and-skills",
+              "id": "rules/ability-scores-and-skills",
+              "isDocsHomePage": false,
+              "title": "Ability Scores & Skills",
+              "description": "Ability Scores",
+              "source": "@site/docs/rules/ability-scores-and-skills.md",
+              "sourceDirName": "rules",
+              "slug": "/rules/ability-scores-and-skills",
+              "permalink": "/rules/ability-scores-and-skills",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/rules/ability-scores-and-skills.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "ability-scores-and-skills",
+                "title": "Ability Scores & Skills",
+                "sidebar_label": "Ability Scores & Skills"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Success & Failure",
+                "permalink": "/rules/success-and-failure"
+              },
+              "next": {
+                "title": "Playing the Game",
+                "permalink": "/rules/playing-the-game"
+              }
+            },
+            {
+              "unversionedId": "rules/mana-fighting-and-magic",
+              "id": "rules/mana-fighting-and-magic",
+              "isDocsHomePage": false,
+              "title": "Mana, Fighting, & Magic",
+              "description": "Mana, Fighting, & Magic",
+              "source": "@site/docs/rules/mana-fighting-and-magic.md",
+              "sourceDirName": "rules",
+              "slug": "/rules/mana-fighting-and-magic",
+              "permalink": "/rules/mana-fighting-and-magic",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/rules/mana-fighting-and-magic.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "mana-fighting-and-magic",
+                "title": "Mana, Fighting, & Magic",
+                "sidebar_label": "Mana, Fighting, & Magic"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Playing the Game",
+                "permalink": "/rules/playing-the-game"
+              },
+              "next": {
+                "title": "Creating a Character",
+                "permalink": "/characters/creating-a-character"
+              }
+            },
+            {
+              "unversionedId": "rules/playing-the-game",
+              "id": "rules/playing-the-game",
+              "isDocsHomePage": false,
+              "title": "Playing the Game",
+              "description": "Playing the Game",
+              "source": "@site/docs/rules/playing-the-game.md",
+              "sourceDirName": "rules",
+              "slug": "/rules/playing-the-game",
+              "permalink": "/rules/playing-the-game",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/rules/playing-the-game.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "playing-the-game",
+                "title": "Playing the Game",
+                "sidebar_label": "Playing the Game"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Ability Scores & Skills",
+                "permalink": "/rules/ability-scores-and-skills"
+              },
+              "next": {
+                "title": "Mana, Fighting, & Magic",
+                "permalink": "/rules/mana-fighting-and-magic"
+              }
+            },
+            {
+              "unversionedId": "rules/success-and-failure",
+              "id": "rules/success-and-failure",
+              "isDocsHomePage": false,
+              "title": "Success & Failure",
+              "description": "Dice",
+              "source": "@site/docs/rules/success-and-failure.md",
+              "sourceDirName": "rules",
+              "slug": "/rules/success-and-failure",
+              "permalink": "/rules/success-and-failure",
+              "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/rules/success-and-failure.md",
+              "version": "current",
+              "frontMatter": {
+                "id": "success-and-failure",
+                "title": "Success & Failure",
+                "sidebar_label": "Success & Failure"
+              },
+              "sidebar": "rulebook",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/introduction"
+              },
+              "next": {
+                "title": "Ability Scores & Skills",
+                "permalink": "/rules/ability-scores-and-skills"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

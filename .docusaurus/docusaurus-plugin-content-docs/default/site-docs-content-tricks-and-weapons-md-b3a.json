@@ -1,0 +1,27 @@
+{
+  "unversionedId": "content/tricks-and-weapons",
+  "id": "content/tricks-and-weapons",
+  "isDocsHomePage": false,
+  "title": "Tricks & Weapons",
+  "description": "Tricks",
+  "source": "@site/docs/content/tricks-and-weapons.md",
+  "sourceDirName": "content",
+  "slug": "/content/tricks-and-weapons",
+  "permalink": "/content/tricks-and-weapons",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/tricks-and-weapons.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "tricks-and-weapons",
+    "title": "Tricks & Weapons",
+    "sidebar_label": "Tricks & Weapons"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Gambits & Spells",
+    "permalink": "/content/abilities"
+  },
+  "next": {
+    "title": "Armor & Shields",
+    "permalink": "/content/armor-and-shields"
+  }
+}

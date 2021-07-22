@@ -1,0 +1,27 @@
+{
+  "unversionedId": "content/perks",
+  "id": "content/perks",
+  "isDocsHomePage": false,
+  "title": "Perks",
+  "description": "Ability Score Improvement",
+  "source": "@site/docs/content/perks.md",
+  "sourceDirName": "content",
+  "slug": "/content/perks",
+  "permalink": "/content/perks",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/perks.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "perks",
+    "title": "Perks",
+    "sidebar_label": "Perks"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Class",
+    "permalink": "/characters/class"
+  },
+  "next": {
+    "title": "Talents",
+    "permalink": "/content/talents"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "characters/creating-a-character",
+  "id": "characters/creating-a-character",
+  "isDocsHomePage": false,
+  "title": "Creating a Character",
+  "description": "Assign Ability Scores",
+  "source": "@site/docs/characters/creating-a-character.md",
+  "sourceDirName": "characters",
+  "slug": "/characters/creating-a-character",
+  "permalink": "/characters/creating-a-character",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/characters/creating-a-character.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "creating-a-character",
+    "title": "Creating a Character",
+    "sidebar_label": "Creating a Character"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Mana, Fighting, & Magic",
+    "permalink": "/rules/mana-fighting-and-magic"
+  },
+  "next": {
+    "title": "Heritage",
+    "permalink": "/characters/heritage"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "content/talents",
+  "id": "content/talents",
+  "isDocsHomePage": false,
+  "title": "Fighting & Magical Talents",
+  "description": "Fighting Talents",
+  "source": "@site/docs/content/talents.md",
+  "sourceDirName": "content",
+  "slug": "/content/talents",
+  "permalink": "/content/talents",
+  "editUrl": "https://github.com/iansannar/remedy/edit/main/docs/content/talents.md",
+  "version": "current",
+  "frontMatter": {
+    "id": "talents",
+    "title": "Fighting & Magical Talents",
+    "sidebar_label": "Talents"
+  },
+  "sidebar": "rulebook",
+  "previous": {
+    "title": "Perks",
+    "permalink": "/content/perks"
+  },
+  "next": {
+    "title": "Gambits & Spells",
+    "permalink": "/content/abilities"
+  }
+}
